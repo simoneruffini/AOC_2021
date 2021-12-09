@@ -7,9 +7,15 @@ Let's see how much I can go on.
 
 WIP
 ```
-/AOC_2021/
+../AOC_2021/
 ├── day1
 │   ├── input.txt
+│   ├── README.md
 │   └── solution.vim
+├── day2
+│   ├── input.txt
+│   ├── README.md
+│   └── solution.vim
+├── do
 └── README.md
 ```
